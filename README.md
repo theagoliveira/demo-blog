@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+## Tutorial Source
+
+[YouTube](https://www.youtube.com/watch?v=wbZ6yrVxScM)
+
+[Blog](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments/)
+
