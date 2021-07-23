@@ -1,33 +1,21 @@
-# README
+# Let's Build: With Ruby on Rails - A Blog with Comments
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutorial by Andy Leverenz, author of the blog/channel **Web-Crunch**.
 
-Things you may want to cover:
+- [:pencil: Blog post](https://web-crunch.com/posts/lets-build-with-ruby-on-rails-blog-with-comments)
+- [:clapper: Video on **Web-Crunch** YouTube channel](https://youtu.be/XEkJ3vZb6-Q)
+- [:clapper: Video on **freeCodeCamp.org** YouTube channel](https://youtu.be/wbZ6yrVxScM)
 
-* Ruby version
+## Description
 
-* System dependencies
+From the blog:
 
-* Configuration
+> To easily demonstrate the principles of working with Ruby on Rails I chose to build a basic blog. Each blog post will be able to be created, read, edited, and deleted. There will also be comments associated with each individual blog post. Comments will be able to be created and deleted.
+> 
+> ...
+> 
+> Ultimately, the point of this tutorial and video is to help anyone new to the framework understand how it operates as well as the necessary conventions required to create a blog using Ruby on Rails. I touch on things such as routing, controllers, views, models, migrations, relations, and more.
 
-* Database creation
+## Deployment
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-
-## Tutorial Source
-
-[YouTube](https://www.youtube.com/watch?v=wbZ6yrVxScM)
-
-[Blog](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments/)
-
+App deployed on [Heroku](https://evening-scrubland-11991.herokuapp.com)
