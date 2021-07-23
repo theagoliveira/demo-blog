@@ -10,11 +10,11 @@ Tutorial by Andy Leverenz, author of the blog/channel **Web-Crunch**.
 
 From the blog:
 
-> To easily demonstrate the principles of working with Ruby on Rails I chose to build a basic blog. Each blog post will be able to be created, read, edited, and deleted. There will also be comments associated with each individual blog post. Comments will be able to be created and deleted.
+> "To easily demonstrate the principles of working with Ruby on Rails I chose to build a basic blog. Each blog post will be able to be created, read, edited, and deleted. There will also be comments associated with each individual blog post. Comments will be able to be created and deleted.
 > 
 > ...
 > 
-> Ultimately, the point of this tutorial and video is to help anyone new to the framework understand how it operates as well as the necessary conventions required to create a blog using Ruby on Rails. I touch on things such as routing, controllers, views, models, migrations, relations, and more.
+> Ultimately, the point of this tutorial and video is to help anyone new to the framework understand how it operates as well as the necessary conventions required to create a blog using Ruby on Rails. I touch on things such as routing, controllers, views, models, migrations, relations, and more."
 
 ## Deployment
 
